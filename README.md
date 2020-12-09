@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Page🤗🤗
 
-I am Srishti,a student of Birla Institute of Technology Patna,
+I am Srishti,a student of Birla Institute of Technology Patna,Words which describe me- AMBITIOUS,COURAGEOUS,UNIQUE,LEADER...
 ### My skills include🍒 - <br/>
 ✔Coding - ***** <br/>
 
