@@ -2,9 +2,19 @@
 
 ### Welcome to my GitHub Page🤗🤗
 
-I am Srishti,a student of Birla Institute of Technology Patna,Words which describe me- AMBITIOUS,COURAGEOUS,UNIQUE,LEADER...
+I am Srishti,a student of Birla Institute of Technology Patna.<br/>
+Words which describe me- AMBITIOUS,COURAGEOUS,UNIQUE,LEADER...
+
 ### My skills include🍒 - <br/>
-✔Coding - ***** <br/>
+
+Programming language- JAVA<br/>
+UI/UX Design<br/>
+HTML<br/>
+CSS<br/>
+DBMS-Mysql<br/>
+MATLAB<br/>
+MULTISIM<br/>
+UNIX BASH<br/>
 
 <hr>
 <hr>
@@ -14,7 +24,7 @@ I am Srishti,a student of Birla Institute of Technology Patna,Words which descri
 #### `DESIGNS`
 
 
-#### `C/C++ Based Games`
+
 
 
 #### For other projects and works including Open-Source contributions feel free to explore my repositories.🧐
@@ -22,11 +32,10 @@ I am Srishti,a student of Birla Institute of Technology Patna,Words which descri
 
 ### Contacting Me -🤝
 
-You can contact me on [LinkedIn]((LINK ! )or can mail me @ btech15117.19@bitmesra.ac.in
+You can contact me on [LinkedIn](https://www.linkedin.com/in/srishti-s-2996a91b1/ )or can mail me @ btech15117.19@bitmesra.ac.in
 
-
-My `Resume` can be found at [Resume]((LINK ! ))
 <hr>
 
 # NEVER STOP TRYING !!😀
+# CREATE YOUR IMAGINATION !!
 
