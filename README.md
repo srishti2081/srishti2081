@@ -5,6 +5,10 @@
 I am Srishti,a student of Birla Institute of Technology Patna.<br/>
 Words which describe me- AMBITIOUS,COURAGEOUS,UNIQUE,LEADER...
 
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=srishti2081&show_icons=true&theme=gruvbox)](https://github.com/srishti2081/github-readme-stats)
+[![Language Preferences](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti2081&layout=compact&theme=gruvbox)](https://github.com/srishti2081/github-readme-stats)
+
+
 ### My skills include🍒 - <br/>
 
 Programming language- JAVA<br/>
