@@ -12,10 +12,10 @@ Words which describe me- AMBITIOUS,COURAGEOUS,UNIQUE,LEADER...
 ### My skills include🍒 - <br/>
 
 Programming language- JAVA<br/>
-UI/UX Design<br/>
 HTML<br/>
 CSS<br/>
 DBMS-Mysql<br/>
+UI Design<br/>
 MATLAB<br/>
 MULTISIM<br/>
 UNIX BASH<br/>
