@@ -23,13 +23,6 @@ Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjo
 
 ---
 
-### 📂 Featured Projects   
-🔹 [Portfolio Website](https://github.com/your-repo)  
-
-*(More projects are pinned below ⬇️)*  
-
----
-
 ### 🌱 Current Focus  
 - Sharpening my **Frontend + UI/UX skills**  
 - Exploring **maps & data visualization** with ArcGIS  
@@ -44,4 +37,5 @@ Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjo
 
 ### 💡 Motto  
 > **NEVER STOP TRYING 😀 · CREATE YOUR IMAGINATION 🚀**  
+
 
