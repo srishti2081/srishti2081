@@ -1,45 +1,47 @@
-# Hola there 👋
+# Hola there 👋  
 
-### Welcome to my GitHub Page🤗🤗
+### Welcome to my GitHub 🤗  
 
-I am Srishti,a student of Birla Institute of Technology Patna.<br/>
-Words which describe me- AMBITIOUS,COURAGEOUS,UNIQUE,LEADER...
+I’m **Srishti**, a Frontend Developer & UI/UX Designer passionate about building **clean, accessible, and user-friendly web applications**.  
+Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjoy turning ideas into interactive digital experiences.  
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=srishti2081&show_icons=true&theme=gruvbox)](https://github.com/srishti2081/github-readme-stats)
-[![Language Preferences](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti2081&layout=compact&theme=gruvbox)](https://github.com/srishti2081/github-readme-stats)
+✨ Words that describe me: **Ambitious · Courageous · Unique · Leader**  
 
+---
 
-### My skills include🍒 - <br/>
+### ⚡ GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti2081&show_icons=true&theme=tokyonight)](https://github.com/srishti2081)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti2081&layout=compact&theme=tokyonight)](https://github.com/srishti2081)  
 
-Programming language- JAVA<br/>
-HTML<br/>
-CSS<br/>
-DBMS-Mysql<br/>
-UI Design<br/>
-MATLAB<br/>
-MULTISIM<br/>
-UNIX BASH<br/>
+---
 
-<hr>
-<hr>
+### 🛠️ My Skills  
+- **Frontend:** React.js, Next.js, Tailwind CSS, Material UI, HTML, CSS  
+- **Programming:** Java, JavaScript, TypeScript  
+- **Design & Prototyping:** Figma, UI Design, Design Systems  
+- **Databases:** MySQL, DBMS  
+- **Other Tools:** ArcGIS JS API, MATLAB, MULTISIM, UNIX Bash, Docker  
 
-### Exploring My Works-🧐
+---
 
-#### `DESIGNS`
+### 📂 Featured Projects   
+🔹 [Portfolio Website](https://github.com/your-repo)  
 
+*(More projects are pinned below ⬇️)*  
 
+---
 
+### 🌱 Current Focus  
+- Sharpening my **Frontend + UI/UX skills**  
+- Exploring **maps & data visualization** with ArcGIS  
+- Building **real-world projects** and contributing to Open Source  
 
+---
 
-#### For other projects and works including Open-Source contributions feel free to explore my repositories.🧐
+### 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/srishti-s-2996a91b1/)  
+- 📧 srishti.bitmesra2081@gmail.com
+---
 
-
-### Contacting Me -🤝
-
-You can contact me on [LinkedIn](https://www.linkedin.com/in/srishti-s-2996a91b1/ )or can mail me @ btech15117.19@bitmesra.ac.in
-
-<hr>
-
-# NEVER STOP TRYING !!😀
-# CREATE YOUR IMAGINATION !!
-
+### 💡 Motto  
+> **NEVER STOP TRYING 😀 · CREATE YOUR IMAGINATION 🚀**  
