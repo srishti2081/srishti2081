@@ -9,15 +9,11 @@ Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjo
 
 ---
 
-### ⚡ GitHub Stats  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti2081&layout=compact&theme=tokyonight)](https://github.com/srishti2081)  
-
----
-
 ### 🛠️ My Skills  
 - **Frontend:** React.js, Next.js, Tailwind CSS, Material UI, HTML, CSS  
 - **Programming:** Java, JavaScript, TypeScript  
-- **Design & Prototyping:** Figma, UI Design, Design Systems  
+- **Design & Prototyping:** Figma, UI Design, Design Systems
+- **State Management:** Redux Toolkit  
 - **Databases:** MySQL, DBMS  
 - **Other Tools:** ArcGIS JS API, MATLAB, MULTISIM, UNIX Bash, Docker  
 
@@ -37,5 +33,6 @@ Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjo
 
 ### 💡 Motto  
 > **NEVER STOP TRYING 😀 · CREATE YOUR IMAGINATION 🚀**  
+
 
 
