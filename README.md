@@ -10,7 +10,6 @@ Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjo
 ---
 
 ### ⚡ GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srishti2081&show_icons=true&theme=tokyonight)](https://github.com/srishti2081)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srishti2081&layout=compact&theme=tokyonight)](https://github.com/srishti2081)  
 
 ---
@@ -45,3 +44,4 @@ Currently pursuing my B.Tech at **Birla Institute of Technology, Patna**, I enjo
 
 ### 💡 Motto  
 > **NEVER STOP TRYING 😀 · CREATE YOUR IMAGINATION 🚀**  
+
